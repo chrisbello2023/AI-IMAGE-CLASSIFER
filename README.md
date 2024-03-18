@@ -42,7 +42,7 @@ Open Git Bash and change the directory to the location where the repository is t
   git init
 ```
 ```shell
- https://github.com/chrisbello2023/AI-IMAGE-CLASSIFER
+https://github.com/chrisbello2023/AI-IMAGE-CLASSIFER.git
 ```
 Now, install the requirements using the following command.
 
