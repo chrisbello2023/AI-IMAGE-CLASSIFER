@@ -42,7 +42,7 @@ Open Git Bash and change the directory to the location where the repository is t
   git init
 ```
 ```shell
- 
+ https://github.com/chrisbello2023/AI-IMAGE-CLASSIFER
 ```
 Now, install the requirements using the following command.
 
@@ -50,7 +50,7 @@ Now, install the requirements using the following command.
    pip install -r requirements.txt 
 ```
 To access or use the application, open a terminal in the cloned repository folder and run the following command.
-https://github.com/chrisbello2023/AI-IMAGE-CLASSIFER
+
 ```shell
   streamlit run deploy.py
 ```
