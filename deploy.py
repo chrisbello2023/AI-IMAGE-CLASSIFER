@@ -9,7 +9,7 @@ img_size = 48
 
 model = tf.keras.models.load_model("AIGeneratedModel.h5")
 
-st.title("AI Image Classifier")       
+st.title("AI IMAGE ClASSIFIER")       
         
 img = st.file_uploader("Upload your Image")
 
